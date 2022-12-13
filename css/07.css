@@ -1,0 +1,27 @@
+
+/* gnb-top */
+header>.inner>.gnb-top{
+  background-color: beige;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+}
+
+/* gnb-second */
+header>.inner>.gnb-second{
+  background-color: lightgray;
+  position: fixed;
+  width: 100%;
+}
+
+/* gnb */
+header>.inner>.gnb{
+  background-color: lightgreen;
+  position: fixed;
+  width: 100%;
+}
+
+body{
+  /* padding-top: 42px; */
+
+}
